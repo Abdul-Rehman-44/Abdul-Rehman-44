@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=180&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:2E9EF7&height=200&section=header&text=Abdul%20Rehman&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%"/>
 
 # Hi, I'm Abdul Rehman 👋
 
@@ -16,8 +16,15 @@
 <a href="mailto:abdulrehman1.info@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://github.com/Abdul-Rehman-44">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Abdul-Rehman-44&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+📧 **abdulrehman1.info@gmail.com** &nbsp;|&nbsp; 🔗 **[linkedin.com/in/abdul-rehman-a49365320](https://www.linkedin.com/in/abdul-rehman-a49365320)** &nbsp;|&nbsp; 💻 **[github.com/Abdul-Rehman-44](https://github.com/Abdul-Rehman-44)**
 
 </div>
 
@@ -26,11 +33,11 @@
 ## 🧠 About Me
 
 ```yaml
-role:        AI Engineer — Computer Vision · NLP · Applied Deep Learning
-education:   BS Artificial Intelligence, University of Central Punjab, Lahore
-focus:       Turning research-grade models into deployed, production-ready products
-looking_for: Full-time AI/ML Engineer roles at product-driven software houses
-stack:       Python · PyTorch · TensorFlow · FastAPI · Next.js · Docker · Azure/AWS
+Role:        AI Engineer — Computer Vision · NLP · Applied Deep Learning
+Education:   BS Artificial Intelligence, University of Central Punjab, Lahore
+Focus:       Turning research-grade models into deployed, production-ready products
+Looking_For: Full-time AI/ML Engineer roles at product-driven software houses
+Stack:       Python · PyTorch · TensorFlow · FastAPI · Next.js · Docker · Azure/AWS
 ```
 
 - 🎯 Built **Detectra AI** — a full-stack multimodal video intelligence platform (YOLOv8 + Whisper + Cross-Modal Transformer) as a Final Year Project, from model training to deployed FastAPI/Next.js product
