@@ -1,18 +1,108 @@
-# 💫 About Me:
-🔭 I’m currently building production-ready AI applications using Python, PyTorch, TensorFlow, FastAPI, and Large Language Models.<br><br>👯 I’m looking to collaborate on AI, Machine Learning, Computer Vision, NLP, Generative AI, and Open Source projects.<br><br>🤝 I’m looking for opportunities to contribute to impactful AI products and research-driven engineering teams.<br><br>🌱 I’m currently exploring AI Agents, LangGraph, RAG Pipelines, MLOps, AWS Cloud, and scalable ML deployment.<br><br>💬 Ask me about Python, Machine Learning, Deep Learning, Computer Vision, YOLO, NLP, LLMs, FastAPI, and AI system design.<br><br>⚡ Fun fact: I love solving real-world problems with AI and enjoy building projects that bridge research and production.
+<h1 align="center">Hi, I'm Abdul Rehman Imran 👋</h1>
+<h3 align="center">AI Engineer | Computer Vision & Deep Learning | Building Real-World AI Products</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+production-ready+AI+systems;YOLOv8+%7C+Whisper+%7C+LLMs+%7C+RAG+Pipelines;FastAPI+%2B+Next.js+%2B+Docker+%2B+PostgreSQL;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-rehman-a49365320) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulrehman1.info@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abdul-Rehman-44&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Abdul-Rehman-44&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abdul-Rehman-44&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdulrehman1.info@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Abdul-Rehman-44&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+I'm an **AI Engineer** with a **BS in Artificial Intelligence** from the **University of Central Punjab, Lahore**, specializing in Computer Vision, NLP, and building production-grade AI systems end-to-end — from model to deployed product.
+
+- 🔭 Experienced in **production-grade AI applications** with Python, PyTorch, TensorFlow, FastAPI, and LLMs
+- 🎯 Flagship project: **Detectra AI** — a locally-hosted multimodal video intelligence platform combining YOLOv8, Whisper, ByteTrack, and a Cross-Modal Transformer
+- 👯 Open to collaborating on **AI, Computer Vision, NLP, Generative AI**, and open-source projects
+- 🤝 **Actively seeking full-time AI/ML Engineer roles** at product-driven software houses and research-focused engineering teams
+- 🌱 Currently exploring **AI Agents, LangGraph, RAG pipelines, MCP/A2A protocols, and MLOps**
+- 💬 Ask me about **YOLO, Computer Vision, LLMs, FastAPI system design, or AI product engineering**
+- ⚡ Fun fact: I enjoy turning AI research into products that actually ship
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Detectra AI](https://github.com/Abdul-Rehman-44)** | Multimodal video intelligence platform for object detection, tracking, and audio-visual event understanding | YOLOv8 · Whisper · ByteTrack · FastAPI · Next.js · PostgreSQL · Docker |
+| **[MCP-Based SQL Data Analyst Assistant](https://github.com/Abdul-Rehman-44/MCP-Based-SQL-Data-Analyst-Assistant-with-PostgreSQL-Warehouse-Star-Schema)** | Natural-language querying over a Kimball star-schema warehouse via a 22-capability FastMCP server | PostgreSQL · FastMCP · Groq LLM · YAML Semantic Layer |
+| **[Advanced Academic Assistant (MCP + A2A)](https://github.com/Abdul-Rehman-44/Advanced-Academic-Assistant-using-MCP-A2A)** | Multi-agent academic assistant using agent-to-agent protocol orchestration | Gemini LLM · FastAPI · Next.js · MCP/A2A |
+| **[Intelligent Shopping Advisor](https://github.com/Abdul-Rehman-44/Intelligent-Shopping-Advisor)** | AI-powered product recommendation and shopping decision assistant | Python · ML |
+| **[AI News Aggregator](https://github.com/Abdul-Rehman-44/AI-News-Aggregatorss)** | Automated pipeline for scraping, summarizing, and ranking AI news | Python |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & AI/ML**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
+
+**Backend & Web**
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+**Databases**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+**Cloud & DevOps**
+<p>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rehman-44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rehman-44&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman-44&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-44&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:abdulrehman1.info@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-red?style=for-the-badge&logo=gmail"/></a>
+</p>
+
+<p align="center"><i>🎯 Actively seeking full-time AI/ML Engineer roles at product-driven software houses — open to relocation and remote opportunities.</i></p>
