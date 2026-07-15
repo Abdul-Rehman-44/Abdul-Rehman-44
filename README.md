@@ -1,108 +1,147 @@
-<h1 align="center">Hi, I'm Abdul Rehman Imran 👋</h1>
-<h3 align="center">AI Engineer | Computer Vision & Deep Learning | Building Real-World AI Products</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+production-ready+AI+systems;YOLOv8+%7C+Whisper+%7C+LLMs+%7C+RAG+Pipelines;FastAPI+%2B+Next.js+%2B+Docker+%2B+PostgreSQL;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2E9EF7&height=220&section=header&text=Abdul%20Rehman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%26%20Deep%20Learning&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abdulrehman1.info@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Systems;YOLOv8+%7C+Whisper+%7C+LLMs+%7C+RAG+Pipelines;FastAPI+%2B+Next.js+%2B+Docker+%2B+PostgreSQL;Open+to+Full-Time+AI%2FML+Engineer+Roles" alt="Typing SVG" />
 
----
+<br/>
 
-### 💫 About Me
+<a href="https://www.linkedin.com/in/abdul-rehman-a49365320">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abdulrehman1.info@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Lahore%2C%20Pakistan-2E9EF7?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Abdul-Rehman-44&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" />
 
-I'm an **AI Engineer** with a **BS in Artificial Intelligence** from the **University of Central Punjab, Lahore**, specializing in Computer Vision, NLP, and building production-grade AI systems end-to-end — from model to deployed product.
+</div>
 
-- 🔭 Experienced in **production-grade AI applications** with Python, PyTorch, TensorFlow, FastAPI, and LLMs
-- 🎯 Flagship project: **Detectra AI** — a locally-hosted multimodal video intelligence platform combining YOLOv8, Whisper, ByteTrack, and a Cross-Modal Transformer
-- 👯 Open to collaborating on **AI, Computer Vision, NLP, Generative AI**, and open-source projects
-- 🤝 **Actively seeking full-time AI/ML Engineer roles** at product-driven software houses and research-focused engineering teams
-- 🌱 Currently exploring **AI Agents, LangGraph, RAG pipelines, MCP/A2A protocols, and MLOps**
-- 💬 Ask me about **YOLO, Computer Vision, LLMs, FastAPI system design, or AI product engineering**
-- ⚡ Fun fact: I enjoy turning AI research into products that actually ship
+<br/>
 
----
+## 🧠 About Me
 
-### 🚀 Featured Projects
+```yaml
+role:        AI Engineer — Computer Vision · NLP · Applied Deep Learning
+education:   BS Artificial Intelligence, University of Central Punjab, Lahore
+focus:       Turning research-grade models into deployed, production-ready products
+looking_for: Full-time AI/ML Engineer roles at product-driven software houses
+stack:       Python · PyTorch · TensorFlow · FastAPI · Next.js · Docker · Azure/AWS
+```
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Detectra AI](https://github.com/Abdul-Rehman-44)** | Multimodal video intelligence platform for object detection, tracking, and audio-visual event understanding | YOLOv8 · Whisper · ByteTrack · FastAPI · Next.js · PostgreSQL · Docker |
-| **[MCP-Based SQL Data Analyst Assistant](https://github.com/Abdul-Rehman-44/MCP-Based-SQL-Data-Analyst-Assistant-with-PostgreSQL-Warehouse-Star-Schema)** | Natural-language querying over a Kimball star-schema warehouse via a 22-capability FastMCP server | PostgreSQL · FastMCP · Groq LLM · YAML Semantic Layer |
-| **[Advanced Academic Assistant (MCP + A2A)](https://github.com/Abdul-Rehman-44/Advanced-Academic-Assistant-using-MCP-A2A)** | Multi-agent academic assistant using agent-to-agent protocol orchestration | Gemini LLM · FastAPI · Next.js · MCP/A2A |
-| **[Intelligent Shopping Advisor](https://github.com/Abdul-Rehman-44/Intelligent-Shopping-Advisor)** | AI-powered product recommendation and shopping decision assistant | Python · ML |
-| **[AI News Aggregator](https://github.com/Abdul-Rehman-44/AI-News-Aggregatorss)** | Automated pipeline for scraping, summarizing, and ranking AI news | Python |
+- 🎯 Built **Detectra AI** — a full-stack multimodal video intelligence platform (YOLOv8 + Whisper + Cross-Modal Transformer) as a Final Year Project, from model training to deployed FastAPI/Next.js product
+- 🧩 Comfortable across the **entire AI product lifecycle**: data pipelines → model training → API design → containerized deployment
+- 🛠️ Hands-on with **multi-agent systems** (MCP, A2A protocols), LLM orchestration, and RAG pipelines
+- 📈 Strong foundation in **software engineering fundamentals** — not just notebooks, but tested, documented, deployable systems
+- 🤝 **Actively interviewing** for AI/ML Engineer, Computer Vision Engineer, and Applied AI roles — open to relocation and remote
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🚀 Projects That Show How I Think
 
-**Languages & AI/ML**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 [Detectra AI](https://github.com/Abdul-Rehman-44)
+**Multimodal video intelligence platform**
+
+Real-time object detection + tracking + speech understanding fused into a single searchable video-intelligence layer.
+
+`YOLOv8` `Whisper` `ByteTrack` `Cross-Modal Transformer`
+`FastAPI` `Next.js` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗃️ [MCP SQL Data Analyst](https://github.com/Abdul-Rehman-44/MCP-Based-SQL-Data-Analyst-Assistant-with-PostgreSQL-Warehouse-Star-Schema)
+**Natural language → SQL, over a real warehouse**
+
+Kimball star-schema warehouse queried through a 22-capability FastMCP server with a bilingual semantic layer.
+
+`PostgreSQL` `FastMCP` `Groq LLM` `Semantic Layer`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Advanced Academic Assistant](https://github.com/Abdul-Rehman-44/Advanced-Academic-Assistant-using-MCP-A2A)
+**Multi-agent system with agent-to-agent orchestration**
+
+Agents coordinate over the MCP/A2A protocol stack to handle academic research tasks end-to-end.
+
+`Gemini LLM` `FastAPI` `Next.js` `MCP/A2A`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ [Intelligent Shopping Advisor](https://github.com/Abdul-Rehman-44/Intelligent-Shopping-Advisor)
+**AI-driven product recommendation engine**
+
+Helps users make purchase decisions using ML-based ranking and comparison logic.
+
+`Python` `Machine Learning`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
 
 **Backend & Web**
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,tailwind,nodejs&theme=dark" />
 
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</p>
+**Data & Storage**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" />
 
 **Cloud & DevOps**
-<p>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
-</p>
+<br/>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,githubactions,vercel&theme=dark" />
 
----
+</div>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rehman-44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rehman-44&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman-44&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rehman-44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rehman-44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman-44&theme=tokyonight&hide_border=true&background=0D1117" />
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-44&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-44&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<br/>
 
----
+<div align="center">
 
-### 🌐 Connect With Me
+## 📬 Let's Talk
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:abdulrehman1.info@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-red?style=for-the-badge&logo=gmail"/></a>
-</p>
+**I'm currently interviewing for AI/ML Engineer roles.**
+If your team is building serious AI products, I'd love to talk.
 
-<p align="center"><i>🎯 Actively seeking full-time AI/ML Engineer roles at product-driven software houses — open to relocation and remote opportunities.</i></p>
+<a href="https://www.linkedin.com/in/abdul-rehman-a49365320">
+  <img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:abdulrehman1.info@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20me-abdulrehman1.info%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
