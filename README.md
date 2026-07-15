@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:2E9EF7&height=200&section=header&text=Abdul%20Rehman&fontSize=50&fontColor=ffffff&fontAlignY=45&animation=twinkling" width="100%"/>
 
-# Hi, I'm Abdul Rehman 👋
-
 ### AI/ML Engineer | Computer Vision & Deep Learning
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+Production-Ready+AI+Systems;YOLOv8+%7C+Whisper+%7C+LLMs+%7C+RAG+Pipelines;FastAPI+%2B+Next.js+%2B+Docker+%2B+PostgreSQL;Open+to+Full-Time+AI%2FML+Engineer+Roles" alt="Typing SVG" />
