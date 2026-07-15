@@ -122,12 +122,12 @@ Helps users make purchase decisions using ML-based ranking and comparison logic.
 ## 📊 GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rehman-44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rehman-44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdul-Rehman-44&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Rehman-44&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman-44&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Rehman-44&theme=tokyonight&hide_border=true" />
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-44&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Abdul-Rehman-44&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
 
 <br/>
